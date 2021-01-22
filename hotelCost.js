@@ -25,5 +25,5 @@ var cost=0;
    }
  }
  
-var total = hotelCost(40);
+var total = hotelCost(45);
 console.log(total);

@@ -8,5 +8,5 @@ function budgetCalculator(watch,mobile,laptop){
         return "Invalid Number";
     }
 }
-var result= budgetCalculator(1,0,2);
+var result= budgetCalculator(1,1,2);
 console.log(result);
